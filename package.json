@@ -1,0 +1,7 @@
+{
+  "name": "pi-pack-example-mono",
+  "private": true,
+  "pi-pack": {
+    "extensions-dir": "extensions"
+  }
+}
