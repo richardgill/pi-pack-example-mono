@@ -12,12 +12,8 @@ Install `pi-pack` globally:
 npm install -g pi-pack
 ```
 
-<!-- Delete install options that do not apply before publishing. -->
-
 ```bash
-pi-pack install "npm:extension-2"
-pi-pack install "git:github.com/<user>/pi-pack-example-mono" --extension "extension-2"
-pi-pack install "~/code/pi-pack-example-mono" --extension "extension-2"
+pi-pack install "git:github.com/richardgill/pi-pack-example-mono" --extension "extension-2"
 ```
 
 
